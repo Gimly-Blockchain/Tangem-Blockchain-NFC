@@ -8,5 +8,5 @@ Once you have registered, you will get access to a full technical manual explain
 
 ## Resources
 
-* Android SDK for implementing tangem functionalities in your android or JVM applications.
-* iOS SDK for implementing tangem functionalities in your iOS applications
+* Android SDK for implementing tangem functionalities in your android or JVM applications: https://github.com/Gimly-Blockchain/tangem-sdk-android
+* iOS SDK for implementing tangem functionalities in your iOS applications: https://github.com/Gimly-Blockchain/tangem-sdk-ios
