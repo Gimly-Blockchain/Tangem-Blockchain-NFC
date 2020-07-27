@@ -1,4 +1,4 @@
-# Tangem-Odyssey
+# Tangem made for blockchain NFC
 With Tangem made-for-blockchain NFC chips, physical objects and beings can interact securely and directly with digital blockchains. No third layer, cloud service, or back-end needed for key management and signature generation. The private key is securely generated within the chip, cannot be extracted, and is used to sign blockchain transactions directly from the chip. Contrary to other crypto tags, Tangem made-for-blockchain NFC chips do not only allow for authentication through challenge response schemes, but they can sign multiple types of transactions directly from the chip. They offer a wide range of additional functions, and are available as physical cards, tags or stickers. With their different form factors and broad functionality, they open up a wide range of use cases, including anti-counterfeiting, supply chain and logistics, and identity solutions.
 
 ## Functionalities
