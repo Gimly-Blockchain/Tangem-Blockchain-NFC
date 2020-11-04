@@ -17,7 +17,7 @@ Gimly provides Tangem developer kits. Get yours in the [Gimly Store](https://www
 The Tangem developer cards and SSI cards come with extended technical documentation, available through [gimly.io/tangem-resources](https://www.gimly.io/tangem-resources)
 
 ## Tangem SDKs
-* [Android SDK](https://github.com/Gimly-Blockchain/tangem-sdk-android)for compiling a demo app and implementing tangem functionalities in your android or JVM applications
+* [Android SDK](https://github.com/Gimly-Blockchain/tangem-sdk-android) for compiling a demo app and implementing tangem functionalities in your android or JVM applications
 * [iOS SDK](https://github.com/Gimly-Blockchain/tangem-sdk-ios) for implementing tangem functionalities in your iOS applications: 
 * [Cordova SDK](https://github.com/Gimly-Blockchain/tangem-sdk-cordova) 
 * [Flutter SDK](https://github.com/Gimly-Blockchain/tangem-sdk-flutter)
