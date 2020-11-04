@@ -11,15 +11,15 @@ With Tangem made-for-blockchain NFC chips, physical objects and beings can inter
 * EAL6+ certified secure smart-card chip based on ARM SC000 core architecture and having ISO14443 Type A contactless interface.
 
 ## Get your DevKits
-Gimly provides Tangem developer kits. Get in touch here: https://www.gimly.io/store
+Gimly provides Tangem developer kits. Get yours in the ![Gimly Store](https://www.gimly.io/store)
 
 ## Technical Resources
-The Tangem developer cards and SSI cards come with extended technical documentation: https://www.gimly.io/tangem-resources
+The Tangem developer cards and SSI cards come with extended technical documentation, available through ![gimly.io/tangem-resources](https://www.gimly.io/tangem-resources)
 
 ## Tangem SDKs
-* Android SDK for implementing tangem functionalities in your android or JVM applications: https://github.com/Gimly-Blockchain/tangem-sdk-android
-* iOS SDK for implementing tangem functionalities in your iOS applications: https://github.com/Gimly-Blockchain/tangem-sdk-ios
-* Cordova SDK: https://github.com/Gimly-Blockchain/tangem-sdk-cordova
-* Flutter: https://github.com/Gimly-Blockchain/tangem-sdk-flutter
+* ![Android SDK](https://github.com/Gimly-Blockchain/tangem-sdk-android)for compiling a demo app and implementing tangem functionalities in your android or JVM applications
+* ![iOS SDK](https://github.com/Gimly-Blockchain/tangem-sdk-ios) for implementing tangem functionalities in your iOS applications: 
+* ![Cordova SDK](https://github.com/Gimly-Blockchain/tangem-sdk-cordova) 
+* ![Flutter SDK](https://github.com/Gimly-Blockchain/tangem-sdk-flutter)
 
 
