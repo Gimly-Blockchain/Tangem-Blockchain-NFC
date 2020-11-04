@@ -13,11 +13,10 @@ With Tangem made-for-blockchain NFC chips, physical objects and beings can inter
 ## Get your DevKits
 Gimly provides Tangem developer kits. Get in touch here: https://www.gimly.io/store
 
-## Technical Manual
-The DeKits come with technical documentation. PDF will be shared upon ordering your DevKit.
+## Technical Resources
+The Tangem developer cards and SSI cards come with extended technical documentation: https://www.gimly.io/tangem-resources
 
-## Resources
-
+## Tangem SDKs
 * Android SDK for implementing tangem functionalities in your android or JVM applications: https://github.com/Gimly-Blockchain/tangem-sdk-android
 * iOS SDK for implementing tangem functionalities in your iOS applications: https://github.com/Gimly-Blockchain/tangem-sdk-ios
 * Cordova SDK: https://github.com/Gimly-Blockchain/tangem-sdk-cordova
